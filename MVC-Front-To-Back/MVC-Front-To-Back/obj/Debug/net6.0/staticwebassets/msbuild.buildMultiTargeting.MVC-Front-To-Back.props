@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC-Front-To-Back.props" />
+</Project>
